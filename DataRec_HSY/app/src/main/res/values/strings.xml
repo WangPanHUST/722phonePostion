@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DataRec</string>
+    <string name="xx">Set position plz！</string>
+    <string name="send">发送</string>
+</resources>
